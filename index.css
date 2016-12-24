@@ -1,0 +1,55 @@
+.header1 {
+  text-align : center;
+  color : red;
+}
+.headerdiv1 {
+  height : 100px;
+  width : 100%;
+  border : 1px solid;
+  position : relative;
+}
+.button {
+  background-color : white;
+  font-size : 25px;
+  margin : 30px;
+  display : inline-block;
+  text-decoration : none;
+} 
+.headerdiv11{
+  height : 400px;
+  width : 100%;
+  border: 1px solid;
+  border-top : none;
+  color : green;
+  
+}
+.headerdiv2 {
+ height:100px;
+  width:100%;
+  border:2px solid; 
+  text-align : center;
+  padding : 100px;
+  display : none;
+  
+  color : green;
+}
+.bottomdiv1 {
+height:100px;
+  width:100%;
+  border:1px solid;
+  text-align : center;
+  color : blue;
+  display : none;
+  
+}
+img {
+  height:50px;
+  width : 50px;
+  padding : 10px;
+  margin : 2px;
+}
+.vedio {
+  height : 100px;
+  width : 100px;
+  
+}
